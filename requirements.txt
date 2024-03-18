@@ -1,0 +1,9 @@
+pyautogui
+pyperclip
+keyboard
+openai
+anthropic
+argostranslate
+selenium
+webdriver_manager
+beautifulsoup4
